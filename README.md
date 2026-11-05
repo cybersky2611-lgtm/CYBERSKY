@@ -29,7 +29,7 @@ Before running the tool, ensure you have the following installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/AapkaUsername/CYBERSKY.git](https://github.com/AapkaUsername/CYBERSKY.git)
+   git clone https://github.com/cybersky2611-lgtm/CYBERSKY.git
    cd CYBERSKY
    python password.py
 
