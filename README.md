@@ -5,6 +5,8 @@ An advanced Python automation wrapper for Hashcat to streamline WPA2/WPA3 handsh
 
 **CYBER SKY** is a powerful, interactive Python automation wrapper designed to streamline PBKDF2-HMAC-SHA1 handshake cracking (`.hc22000` files) using **Hashcat**. It features an interactive character set selection menu, dynamic password length incrementing, and a clean terminal interface.
 
+![image alt](https://github.com/cybersky2611-lgtm/CYBERSKY/blob/main/Screenshot.png?raw=true)
+
 ---
 
 ## 🚀 Features
