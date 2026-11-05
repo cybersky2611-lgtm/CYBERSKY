@@ -26,7 +26,14 @@ Before running the tool, ensure you have the following installed:
 
 ## ⚙️ Installation & Usage
 
+
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/AapkaUsername/CYBERSKY.git](https://github.com/AapkaUsername/CYBERSKY.git)
    cd CYBERSKY
+   
+   Run the script: python password.py
+
+
+   ⚠️ Disclaimer
+This tool is created strictly for educational purposes, academic research, and authorized penetration testing. Do not use it against networks without explicit prior permission. The author is not responsible for any misuse.
