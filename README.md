@@ -31,7 +31,7 @@ Before running the tool, ensure you have the following installed:
    ```bash
    git clone [https://github.com/AapkaUsername/CYBERSKY.git](https://github.com/AapkaUsername/CYBERSKY.git)
    cd CYBERSKY
-   Run the script: python password.py
+   python password.py
 
 
 
